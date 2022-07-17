@@ -20,7 +20,7 @@ npm run android
 
 ## Our contribution 
 
-Building React-native app based on the API from the following link [Github](https://github.com/huyquoctrinh/SmartEye/blob/main/README.md).
+Building React-native app based on the API from the following link [Github](https://github.com/huyquoctrinh/SmartEye).
 
 ## License 
 
