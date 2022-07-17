@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "groovy-works-296608",
+  "private_key_id": "aee231c79bea8a7c0a511869d50e77c416ba2632",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCjvrBL7QaSMCfm\nKlf8gCqnIWo29AtY2wcXXe0U6iS2nAXIhGLNFnke7M57OCyoJseZwM9TSm91V8UD\nRsehUSGGgumwcxQONrdI9pvND/DQSjq3pPaZIdGIctSKtqBC5zRyP3VTfLxMYTd2\nYOpxmMenpWRvDe6l3kiQI4aZ/F7XmQJZN8vGjukp1i+rBOBs+Od9O0ksNpBaf8rF\nhQ0jsFglmoF3ugWbp0AxN+jZSE3CSanw17rsTcfwdyuHjxPVDQMLvTwHu7O3BRwa\nGDnwtJNF4LBW1cdWK1VvYWa8+DGw6+wXEYlk/zlKnAbhBXBiwM9JP/HUdYwprZOP\niRQSjGHHAgMBAAECggEAAwZNEOY8tWcMhAZiitDo/Q1mqMOrVVJpWCenCK/mZCz+\nnsDQVkLgk2jC/vm/bWyoFuBoguuV1a0nRC0PjyU9NGUrZUttjT5UGJXUxYRa9n+X\n+3eyks9anC5CBpraIEEtZRAO0UBGbb7jK4xy8cht6Y97TzbGgG/rQhUCLZeFC4A9\nEiBoO8aA47Td+yWq9s4z2hF0eKwj8tFm+VKU36Vx3QiifMIVXP0VSYi5X0XrbfmQ\nOdOHYV5w2W67k2D40Ih/j6yfrwVOtc+sUERHJWVxQgJWKBvf+3XygPpINWUHp60n\nnuJprJ1bPQVGnurwvVEOvFiJOTm17FiRrVVUJfs1hQKBgQDkAn18VaHXDgodgZma\nrgULTyhkfAKVDKx1uDbYoRy1ZgSrKlvpoFKOT6kE0XoL8KcRFV5TmwmC+OcHcXrf\nDuAOh0tiEa6YlhJT/EZ90ygxE/P5GCpk/MXCH+nIut/RSHhFV32a17s8H1FAAT2e\nuItdbTLc8dYEF5+T/PuhOcsOAwKBgQC32JcAyNkUfTIkyEesI4yoNN/rnmbX1cFq\nUE1L7Zr+LdGPJpU6cIS0NCDTYZkdIwgqpAWfJ0OWvdXP2tX1HPe8bxbdPl6CQJEc\nrOcKlz7VKwZcQqGjISAF4yXLfIk1BuJJY74xSUyernxfSGWCDhgjTBvOc8xIWzt+\nuPnC0OIj7QKBgQDibT6kjH1tjTmqV5tsqkfEFVXtg+EklzNkrA17T3OtCKS2PhiM\nh3O0c5NLf6MN3GxsYKYNrLbjY745/A2jGaiThPPtbdXPHakR0kNGjL0rD7+GrOLc\n6tCQmRSXDE1cDfWyFtJbRMVhTVBomVLSHj34B4stMtPvuG32jpJsZ3IodQKBgQCu\ni/aiCg8AQvUusvBJYN8UfE70l0mxNgMSevdIVWjIVpwVu14HQ/jaVnur9Ye3gCEq\nytuDhXXIUqgDVhO5Si1zPE2K9MIqDD856HbbOUmwfc7mHWT1Smfq7wRdM/nY3JZP\nc2GJzbvvFF6E4Glvlw4XxRTJaGvVbrkH0XtgGY366QKBgQCPlMmwzoOwJiiC/g01\nAg4EGVGRRrG8xJLq+f2bcf5582FwJObCDJlGCvZEzGj04Ns9Wor/5g7r51LjYtS8\n39GBjCh/o/wkEau9m8DA4oB2nxqk9Z4V5VgM9gd0JQjD8BHm3E5kub5ywCJBa7ZA\nM8vKDV6XhlZFquDyUNF8PjGuxg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "bglass-868@groovy-works-296608.iam.gserviceaccount.com",
+  "client_id": "113953893363242168432",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bglass-868%40groovy-works-296608.iam.gserviceaccount.com"
+}  
