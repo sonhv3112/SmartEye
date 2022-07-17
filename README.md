@@ -1,6 +1,6 @@
 # SmartEye
 
-SmartEye application on React-native :sleppy: :sleppy:
+SmartEye application on React-native :sleepy: :sleepy:
 
 ## Install 
 
