@@ -1,6 +1,6 @@
 # SmartEye
 
-SmartEye application on React-native of NoName team in IT Hackathon UI 2022 :clown_face: :clown_face:
+SmartEye application on React-native of NoName team in IT Hackathon IU 2022 :clown_face: :clown_face:
 
 ## Install 
 
